@@ -1,0 +1,72 @@
+===== 320 GC =====
+1. IDENTIFICACION
+- Producto: Excavadora hidráulica sobre orugas CATERPILLAR 320 GC
+- Marca: CATERPILLAR
+- Modelo: 320 GC
+- Año de fabricación: 2021
+- Horómetro: 3.050 horas
+- Motor: Cat C4.4 ACERT, 121 HP (potencia neta aprox. 109 kW / 148 HP según fuentes técnicas de la marca)
+- Peso operativo: 22.200 kg (aprox. 20–22 toneladas según configuración)
+- Capacidad de cucharón: 1,19 m3 (aprox. 1.0 m3 a 1.19 m3 según fuentes)
+- Estado: Usado, importado de Estados Unidos, tren de rodaje al 70%.
+- Gama: Excavadora de tamaño mediano de 22 toneladas orientada a la eficiencia de combustible y trabajos de construcción general.
+
+2. DONDE COMPRARLO
+| Tienda | Nombre publicado | Precio con moneda | Envío | Garantía | Disponibilidad | URL |
+|---|---|---|---|---|---|---|
+| MercadoLibre CO | Excavadora Caterpillar 320 Gc | sin precios / sin datos | no se encontro evidencia | no se encontro evidencia | sin datos | https://vehiculo.mercadolibre.com.co/MCO-1827974523-excavadora-caterpillar-320-gc-_JM |
+
+Nota sobre la tienda: MercadoLibre CO es la única tienda de la lista de fichas que corresponde al producto consultado, pero no cuenta con datos ni precios publicados en su ficha. Las demás tiendas leídas (Homecenter, Falabella, Éxito, Ktronix) no corresponden al producto de maquinaria pesada. 
+La opción más conveniente entre las fichas leídas es MercadoLibre CO únicamente porque es la única que apunta al producto, a pesar de no exhibir precio ni disponibilidad detallada.
+
+3. PRECIO DE MERCADO
+Rango de precios extraído de anuncios individuales del producto consultado (Caterpillar 320 GC / 320GC):
+- Mínimo: USD 25,000.00 (https://machineryline.info/-/excavators/Caterpillar/320GC--c163tm2512m51259 y https://machineryline.com.co/-/excavadoras/Caterpillar/320GC--c163tm2512m51259)
+- Típico (ejemplos de mercado para años 2021-2023): USD 42,000.00 (https://machineryline.info/-/excavators/Caterpillar/320GC--c163tm2512m51259) / USD 46,000.00 (https://machineryline.com.co/-/excavadoras/Caterpillar/320GC--c163tm2512m51259) / USD 48,000.00 (https://machineryline.com.co/-/excavadoras/Caterpillar/320GC--c163tm2512m51259)
+- Máximo: USD 66,000.00 (https://machineryline.com.co/-/excavadoras/Caterpillar/GC--c163tm2512m18)
+
+*Nota de tasación:* La oferta consultada de USD 165,000.00 se encuentra muy por encima del rango detectado en los listados individuales de plataformas de maquinaria usada (donde oscila entre USD 25,000 y USD 66,000 para unidades usadas de años recientes como 2019-2024). Las referencias de precios están expresadas en dólares estadounidenses (USD). No se realiza conversión a COP por falta de tasa de cambio explícita en las fuentes.
+
+4. OPINIONES DE COMPRADORES
+no se encontro evidencia
+
+5. PROBLEMAS CONOCIDOS
+no se encontro evidencia (las fuentes técnicas solo mencionan mejoras en intervalos de mantenimiento como filtros hidráulicos a 3,000 horas y filtros de aire/combustible a 1,000 horas, sin registrar fallas o quejas específicas en: https://www.usedheavyhub.com/is-a-second-hand-cat-320gc-worth-it-in-2026-fuel-efficiency-roi-review/)
+
+6. ALTERNATIVAS
+- Komatsu
+  - Modelo equivalente concreto: Komatsu PC220 (Excavadora de orugas de 22 toneladas)
+  - Precio de referencia: Estimado desde USD 16,816.00 (https://spanish.alibaba.com/product-detail/22-tons-crawler-excavator-komatsu-used-1601025669794.html)
+  - 2 Ventajas: Rendimiento general excepcional en servicio pesado; alta disponibilidad de componentes y respaldo en el mercado de 22 toneladas.
+  - 2 Desventajas: Unidades de importación directa de Japón o plataformas internacionales pueden requerir inspecciones rigurosas de desgaste; menor eficiencia de combustible específica comparada con la gama GC de Cat según configuraciones estándar.
+
+- Hitachi
+  - Modelo equivalente concreto: Hitachi EX200 / Gama de excavadoras de orugas de 20-22 toneladas (https://www.lectura-specs.es/es/modelo/maquinaria-para-la-construccion-y-obras-publicas/excavadoras-de-orugas-hitachi/ex200-11755228)
+  - Precio de referencia: no se encontro evidencia de precios directos en la fuente, listado como disponible para repuestos y especificaciones técnicas (https://machineryline.com.co/-/excavadoras/Hitachi--c163tm2604)
+  - 2 Ventajas: Amplia disponibilidad de fichas técnicas y repuestos genéricos/originales en línea; excelente desempeño hidráulico en obras de construcción.
+  - 2 Desventajas: Ausencia de precios públicos directos en los extractos analizados; costos de importación de repuestos específicos pueden variar en Colombia.
+
+- Volvo CE
+  - Modelo equivalente concreto: Volvo EC220 (https://www.volvoce.com/latin-america/es-mx/products/excavators/ec220/)
+  - Precio de referencia: no se encontro evidencia
+  - 2 Ventajas: Considerada una de las mejores cabinas del mercado en términos de comodidad y ergonomía; diseñada para aplicaciones de servicio pesado y obras viales.
+  - 2 Desventajas: No se encontraron precios de referencia en las fuentes; red de servicio técnico puede ser más limitada geográficamente frente a Caterpillar en ciertas regiones.
+
+- JCB
+  - Modelo equivalente concreto: JCB JS220 (https://www.jcb.com/es-PA/productos/maquinas/excavadora-de-orugas/js220/)
+  - Precio de referencia: no se encontro evidencia
+  - 2 Ventajas: Filosofía de diseño enfocada en alta eficiencia operativa para máquinas de 22 toneladas; estructurada para trabajos rigurosos sin condicionamientos.
+  - 2 Desventajas: Sin precios de referencia disponibles en las fuentes evaluadas; menor liquidez de reventa en el mercado de usados local frente a la marca líder Caterpillar.
+
+7. SEMAFORO
+- Riesgos de la compra:
+  1. Discrepancia crítica de precio: La oferta analizada de USD 165,000.00 supera ampliamente el valor de mercado detectado para excavadoras 320 GC usadas (que varían entre USD 25,000 y USD 66,000 en portales especializados).
+  2. Estado del tren de rodaje al 70%: Implica un desgaste moderado-alto que requerirá un presupuesto de mantenimiento o reemplazo a mediano plazo.
+  3. Origen de importación (EE. UU.): Posible falta de historial de mantenimiento local certificado o exposición a condiciones climáticas agresivas previas.
+
+- Preguntas clave para el vendedor:
+  1. ¿Qué justifica que el precio de la unidad (USD 165,000.00) esté muy por encima del promedio del mercado internacional de usados para el modelo 320 GC año 2021 (rango de USD 25,000 a USD 66,000)?
+  2. ¿Cuenta con el historial de mantenimiento completo y verificado (registro de cambios de filtros a 1,000 y 3,000 horas)?
+  3. ¿Cuál es el reporte detallado de inspección mecánica del motor Cat C4.4 ACERT y del sistema hidráulico?
+  4. ¿El precio incluye costos de nacionalización, impuestos de importación y entrega en Colombia, o se trata de un precio FOB en Estados Unidos?
+  5. ¿Existe algún tipo de garantía comercial directa por parte del vendedor sobre los componentes principales (motor, bombas, tren de rodaje al 70%)?

@@ -1,0 +1,56 @@
+{
+  "cotizacion": {
+    "proveedor": "MAQUINARIAS DEL NORTE S.A.S.",
+    "fecha": "18 de septiembre de 2026",
+    "moneda": "USD",
+    "total": 183500.0,
+    "items": [
+      {
+        "descripcion": "Excavadora hidraulica sobre orugas CATERPILLAR 320 GC",
+        "marca": "CATERPILLAR",
+        "modelo": "320 GC",
+        "categoria": "excavadora",
+        "cantidad": 1.0,
+        "precio_unitario": 165000.0,
+        "moneda": "USD",
+        "especificaciones": [
+          "Ano de fabricacion: 2021",
+          "Horometro: 3.050 horas",
+          "Motor: Cat C4.4 ACERT, 121 HP",
+          "Peso operativo: 22.200 kg",
+          "Capacidad cucharon: 1,19 m3",
+          "Estado: usado, importado de Estados Unidos, tren de rodaje 70%"
+        ]
+      },
+      {
+        "descripcion": "Martillo hidraulico CAT H120 GC para excavadora 20-24 t",
+        "marca": "CAT",
+        "modelo": "H120 GC",
+        "categoria": "martillo hidraulico",
+        "cantidad": 1.0,
+        "precio_unitario": 18500.0,
+        "moneda": "USD",
+        "especificaciones": [
+          "Nuevo, con kit de instalacion y dos cinceles"
+        ]
+      }
+    ],
+    "condiciones": [
+      "Forma de pago: 50% anticipo, 50% contra entrega",
+      "Tiempo de entrega: 45 dias habiles desde el anticipo",
+      "Garantia: 6 meses o 500 horas, lo que ocurra primero (solo tren motriz)",
+      "Precios no incluyen IVA ni nacionalizacion",
+      "Flete hasta obra en Bogota incluido"
+    ],
+    "notas": ""
+  },
+  "analisis": [],
+  "notas_investigacion": [
+    "Se analizaron los primeros 1 de 2 items.",
+    "Item '320 GC': fallo la investigacion (Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kq85acx3e9ea0jzjxx8gbd28` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 197852, Requested 4416. Please try again in 16m19.776s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}})."
+  ],
+  "dossieres": [],
+  "costo_usd": 0.0,
+  "tokens_entrada": 11422,
+  "tokens_salida": 2317
+}

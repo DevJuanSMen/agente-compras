@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+backend/datos/
+frontend/node_modules/
+frontend/dist/
+legacy/*.log
+
+# Datos internos de UPARSISTEM (no publicar)
+recursos/

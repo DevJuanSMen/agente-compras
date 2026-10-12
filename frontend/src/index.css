@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif;
+  /* Verde corporativo UPARSISTEM (logo #8DC63F) */
+  --color-marca-50: #f4f9ec;
+  --color-marca-100: #e6f2d3;
+  --color-marca-200: #cde5a8;
+  --color-marca-300: #b0d677;
+  --color-marca-400: #8dc63f;
+  --color-marca-500: #74ad2a;
+  --color-marca-600: #5a8a1f;
+  --color-marca-700: #46691c;
+  --color-marca-800: #3a541b;
+  --color-marca-900: #2a3d14;
+}
+
+html, body, #root { height: 100%; }
+body {
+  @apply bg-slate-50 text-slate-800 antialiased;
+}
+
+/* Tablas densas, legibles */
+.tabla { @apply w-full text-sm border-collapse; }
+.tabla th { @apply text-left text-xs font-semibold uppercase tracking-wide text-slate-500 bg-slate-50 px-3 py-2 border-b border-slate-200; }
+.tabla td { @apply px-3 py-2 border-b border-slate-100 align-top; }
+.tabla tbody tr:hover { @apply bg-slate-50/70; }
+
+.entrada {
+  @apply w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm shadow-xs outline-none transition
+         focus:border-marca-500 focus:ring-2 focus:ring-marca-200 disabled:bg-slate-100 disabled:text-slate-500;
+}
+.etiqueta { @apply block text-xs font-medium text-slate-600 mb-1; }
+
+@keyframes brillo { 0%, 100% { opacity: .55 } 50% { opacity: 1 } }
+.latido { animation: brillo 1.6s ease-in-out infinite; }

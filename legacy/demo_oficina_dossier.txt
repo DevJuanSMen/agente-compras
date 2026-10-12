@@ -1,0 +1,60 @@
+===== ThinkPad E14 Gen 5 =====
+1. IDENTIFICACION
+- Producto: Portátil Lenovo ThinkPad E14 Gen 5
+- Gama: Portátil empresarial de productividad de gama de entrada/media (serie ThinkPad E)
+- Especificaciones declaradas de referencia: Procesador AMD Ryzen 5 7530U, Memoria 16 GB DDR4, Almacenamiento 512 GB SSD NVMe, Pantalla 14 pulgadas Full HD (o WUXGA 1920x1200 según fuentes técnicas), Sistema Windows 11 Pro, Garantía 1 año del fabricante.
+
+2. DONDE COMPRARLO
+| Tienda | Nombre Publicado | Precio con Moneda | Envío | Garantía | Disponibilidad | URL |
+|---|---|---|---|---|---|---|
+| Éxito | Portátil Lenovo Thinkpad E14 Gen 5 Con Intel I5, 16Gb Ram Y 512Gb Ssd | COP 4,899,900 | no indica | no indica | disponible | https://www.exito.com/portatil-lenovo-thinkpad-e14-gen-5-con-intel-i5-16gb-ram-y-512gb-ssd-103242659-mp/p |
+| Falabella | Portátil Lenovo ThinkPad E14 Gen 5 Core i5 1335U SSD 512 GB 16 GB Win 11 Pro Negro | no publica | no indica | 1 año (12 meses directamente con el fabricante) | agotado | https://www.falabella.com.co/falabella-co/product/140023718/Portatil-Lenovo-ThinkPad-E14-Gen-5-Core-i5-1335U-SSD-512-GB-16-GB-Win-11-Pro-Negro/140023718 |
+
+*Nota sobre la selección:* La única tienda con stock y precio disponible en las fichas de tienda es **Éxito** (aunque corresponde a la variante con procesador Intel Core i5 en lugar del AMD Ryzen 5 consultado). Falabella tiene ficha pero figura como agotado y sin precio publicado. **Éxito** es la única opción disponible en las fichas para compra inmediata, pese a la diferencia de procesador.
+
+3. PRECIO DE MERCADO
+- Rango mínimo / típico / máximo para unidades con especificaciones equivalentes (variantes de Lenovo ThinkPad E14 Gen 5):
+  - Mínimo: no se encontro evidencia estricta para el modelo exacto en el rango consultado (las referencias de precio en tienda local superan el presupuesto).
+  - Típico / Referencia local (Intel i5/16GB/512GB): COP 4,899,900 respaldado en https://www.exito.com/portatil-lenovo-thinkpad-e14-gen-5-con-intel-i5-16gb-ram-y-512gb-ssd-103242659-mp/p
+  - Referencias internacionales (no aplicables directamente al mercado local, solo como contexto de importación o variante menor): USD 199.99 (https://www.techradar.com/pro/lenovo-thinkpad-e14-gen-5-intel-review) y GBP 649 (https://www.techradar.com/pro/lenovo-thinkpad-e14-gen-5-intel-review).
+- El presupuesto del comprador (COP 3,450,000 por unidad) se encuentra por debajo de la única oferta local registrada para el equipo (COP 4,899,900 en Éxito).
+
+4. OPINIONES DE COMPRADORES
+- Positiva: "I loved typing on it and managed 91 words per minute in the 10FastFingers.com test with 97% accuracy" - https://www.techradar.com/pro/lenovo-thinkpad-e14-gen-5-intel-review
+- Neutral: no se encontro evidencia de opiniones neutrales estructuradas.
+- Negativa: no se encontro evidencia de opiniones negativas estructuradas de compradores.
+
+5. PROBLEMAS CONOCIDOS
+- Autonomía de batería limitada bajo pruebas de uso: "With the bigger battery in place, the laptop only survived 7hrs 48mins in our web-surfing test. With this spec, we expected something over nine hours." - https://www.techradar.com/pro/lenovo-thinkpad-e14-gen-5-intel-review
+- Ausencia de componente físico: Sin Lector de Tarjetas SD Integrado - https://laptopdecision.com/es/review/lenovo-thinkpad-e14-gen-5
+
+6. ALTERNATIVAS
+- **Dell**
+  - Modelo equivalente concreto: Dell Pro 14 PC14250 (Pantalla 14", Intel Core 5 120U, 16 GB RAM DDR5, SSD 512 GB, Windows 11 Pro)
+  - Precio de referencia: COP 3,348,316.52 - https://www.amazon.com/-/es/Dell-Pro-PC14250-Computadora-magnetita/dp/B0FJSH1BV9
+  - 2 ventajas: Mayor duración de batería declarada (hasta 10.30 horas); incluye memoria RAM DDR5 más moderna frente a la DDR4 del ThinkPad consultado.
+  - 2 desventajas: No indica garantía explícita en la ficha; teclado en inglés (EE.UU.).
+- **HP**
+  - Modelo equivalente concreto: HP Portátil de 14 pulgadas serie 14-ep0000 (referencia genérica de buscador)
+  - Precio de referencia: no se encontro evidencia de precio exacto (precio estimado basado en catálogo general de tienda online). Indicio: https://www.exito.com/kw/portatiles-14-pulgadas
+  - 2 ventajas: Diseño ultraligero orientado a movilidad; alta disponibilidad en tiendas locales.
+  - 2 desventajas: Fichas técnicas detalladas incompletas en los extractos; configuraciones base suelen incluir pantallas de menor resolución (HD) en gamas de entrada.
+- **Apple**
+  - Modelo equivalente concreto: MacBook Pro 14 pulgadas (con chips M3 / M4 / M5)
+  - Precio de referencia: no se encontro evidencia de precio exacto en fichas (precio estimado de gama alta). Indicio: https://www.apple.com/mx/shop/buy-mac/macbook-pro/14-pulgadas-m5
+  - 2 ventajas: Autonomía de batería significativamente superior (hasta 24 horas); rendimiento y calidad de construcción premium.
+  - 2 desventajas: Costo notablemente superior al presupuesto de COP 3,450,000; sistema operativo macOS (no Windows 11 Pro requerido).
+- **ASUS**
+  - Modelo equivalente concreto: ASUS Zenbook A14 OLED / ASUS Vivobook 14
+  - Precio de referencia: no se encontro evidencia de precio exacto para el modelo base exacto en las fichas leídas (precio estimado). Indicio: https://www.alkosto.com/computador-portatil-asus-zenbook-a14-oled-14-pulgadas/p/4711387903711
+  - 2 ventajas: Pantalla con tecnología OLED en modelos equivalentes; opciones con procesadores de última generación (Snapdragon / Intel Core Ultra).
+  - 2 desventajas: Los modelos con especificaciones equivalentes en OLED suelen superar el presupuesto objetivo; algunos modelos orientados a consumo carecen de certificaciones de durabilidad empresarial tipo ThinkPad.
+
+7. SEMAFORO
+- Riesgos de la compra:
+  - Desajuste presupuestario: El presupuesto del comprador (COP 3,450,000) está por debajo de los precios de mercado detectados en Colombia para equipos nuevos de esta gama (Ej. COP 4,899,900 en Éxito).
+  - Disponibilidad limitada: La mayoría de tiendas revisadas (como Falabella) muestran el producto como agotado.
+- Qué preguntarle al vendedor:
+  - ¿Dispone exactamente de la versión con procesador AMD Ryzen 5 7530U y 16 GB de RAM DDR4, o solo de variantes con procesador Intel Core i5?
+  - ¿El precio publicado incluye IVA y cumple con la garantía directa de 1 año por el fabricante en Colombia?
+  - ¿Se cuenta con stock real para entrega inmediata de una partida de 5 unidades?

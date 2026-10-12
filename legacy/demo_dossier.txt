@@ -1,0 +1,31 @@
+===== 320 GC =====
+# DOSSIER DE COMPRA – EXCAVADORA CATERPILLAR 320 GC
+
+---
+
+## 1. IDENTIFICACIÓN
+
+| Campo | Valor |
+|---|---|
+| Marca / Modelo | Caterpillar 320 GC |
+| Tipo | Excavadora hidráulica sobre orugas |
+| Año fabricación | 2021 |
+| Horómetro | 3.050 h |
+| Motor | Cat C4.4 ACERT, 121 HP |
+| Peso operativo | 22.200 kg |
+| Capacidad cucharon | 1,19 m³ |
+| Estado | Usado, importado de EE. UU. |
+| Tren de rodaje | 70 % (≈ 23 % de vida útil restante) |
+| Precio cotizado | **USD 165.000,00** / unidad × 1 |
+| Comprador | Colombia (moneda de referencia: COP) |
+| Marcas a comparar | Komatsu, Hitachi, Volvo CE, JCB |
+
+---
+
+## 2. PRECIOS DE MERCADO
+
+### Referencias encontradas
+
+| Fuente | URL | Dato | Tipo |
+|---|---|---|---|
+| MachineryTrader (229 listings 320GC) | https://www.machinerytrader.com

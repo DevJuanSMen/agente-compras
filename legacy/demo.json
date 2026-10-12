@@ -1,0 +1,184 @@
+{
+  "cotizacion": {
+    "proveedor": "MAQUINARIAS DEL NORTE S.A.S.",
+    "fecha": "18 de septiembre de 2026",
+    "moneda": "USD",
+    "total": 183500.0,
+    "items": [
+      {
+        "descripcion": "Excavadora hidraulica sobre orugas CATERPILLAR 320 GC",
+        "marca": "CATERPILLAR",
+        "modelo": "320 GC",
+        "categoria": "excavadora sobre orugas",
+        "cantidad": 1.0,
+        "precio_unitario": 165000.0,
+        "moneda": "USD",
+        "especificaciones": [
+          "Año de fabricación: 2021",
+          "Horómetro: 3.050 horas",
+          "Motor: Cat C4.4 ACERT, 121 HP",
+          "Peso operativo: 22.200 kg",
+          "Capacidad cucharon: 1,19 m³",
+          "Estado: usado, importado de Estados Unidos",
+          "Tren de rodaje: 70%"
+        ]
+      },
+      {
+        "descripcion": "Martillo hidraulico CAT H120 GC para excavadora 20-24 t",
+        "marca": "CAT",
+        "modelo": "H120 GC",
+        "categoria": "martillo hidraulico",
+        "cantidad": 1.0,
+        "precio_unitario": 18500.0,
+        "moneda": "USD",
+        "especificaciones": [
+          "Nuevo",
+          "Incluye kit de instalación",
+          "Incluye dos cinceles",
+          "Para excavadora 20-24 t"
+        ]
+      }
+    ],
+    "condiciones": [
+      "Forma de pago: 50% anticipo, 50% contra entrega",
+      "Tiempo de entrega: 45 días hábiles desde el anticipo",
+      "Garantía: 6 meses o 500 horas, lo que ocurra primero (solo tren motriz)",
+      "Precios no incluyen IVA ni nacionalización",
+      "Flete hasta obra en Bogotá incluido",
+      "Validez: 15 días calendario"
+    ],
+    "notas": "Documento de ejemplo generado para demostración. Empresa y precios ficticios."
+  },
+  "analisis": [
+    {
+      "producto": "Excavadora hidráulica sobre orugas",
+      "marca": "Caterpillar",
+      "modelo": "320 GC",
+      "calificacion_producto": 4.0,
+      "calificacion_marca": 5.0,
+      "calificacion_precio": 3.0,
+      "calificacion_global": 3.0,
+      "resumen": "La Caterpillar 320 GC 2021 con 3.050 h es una máquina sólida y de marca líder, pero el tren de rodaje al 70% de desgaste (23% de vida restante) representa un costo de reemplazo significativo que no está reflejado en el precio. El dossier no proporciona datos de precio de mercado suficientes para validar si USD 165.000 es competitivo.",
+      "fortalezas": [
+        "Marca Caterpillar, líder del mercado en excavadoras de 20 t",
+        "Modelo 320 GC bien posicionado en su clase",
+        "Horas razonables para un 2021 (≈1.500 h/año)",
+        "Motor Cat C4.4 ACERT con buena reputación de durabilidad",
+        "Capacidad de cucharon de 1,19 m³ adecuada para la clase"
+      ],
+      "debilidades": [
+        "Tren de rodaje al 70% de desgaste: solo 23% de vida útil restante, implica gasto inminente de reemplazo",
+        "Variante GC tiene menos potencia (121 HP) que la 320 estándar, lo que puede limitar rendimiento en aplicaciones pesadas",
+        "Importada de EE. UU.: posible diferencia en especificaciones o accesorios vs. mercado local",
+        "Dossier incompleto: no se dispone de datos de precio de mercado para validar la cotización"
+      ],
+      "comentarios_clientes": [],
+      "precio_cotizado": 165000.0,
+      "moneda_cotizada": "USD",
+      "rango_mercado": {
+        "minimo": null,
+        "maximo": null,
+        "tipico": null,
+        "moneda": "USD",
+        "base": "No se encontró rango de precios en el dossier. MachineryTrader lista 229 unidades 320GC pero el dossier no incluye valores numéricos.",
+        "confianza": "baja"
+      },
+      "veredicto_precio": "sin_datos",
+      "desviacion_pct": null,
+      "justificacion_precio": "El dossier menciona que MachineryTrader tiene 229 listings de 320GC pero no proporciona valores de precio mínimo, máximo ni típico. Sin datos de mercado no es posible calcular la desviación ni emitir un veredicto de precio. Se asigna calificación neutra (3) por falta de información.",
+      "alternativas": [
+        {
+          "marca": "Komatsu",
+          "modelo": "PC200-8",
+          "equivalencia": "Excavadora de 20 t, misma clase de peso y capacidad de cucharon (~1,1 m³)",
+          "precio_estimado": null,
+          "calificacion": 4.0,
+          "ventajas": [
+            "Buena relación peso/potencia",
+            "Red de servicio amplia en Latinoamérica",
+            "Consumo de combustible competitivo"
+          ],
+          "desventajas": [
+            "Menor valor de reventa que Caterpillar en algunos mercados",
+            "Disponibilidad de repuestos puede variar por región"
+          ],
+          "disponibilidad_local": "Komatsu tiene presencia en Colombia con distribuidores autorizados",
+          "fuentes": []
+        },
+        {
+          "marca": "Hitachi",
+          "modelo": "ZX200",
+          "equivalencia": "Excavadora de 20 t, comparable en peso operativo y capacidad de cucharon",
+          "precio_estimado": null,
+          "calificacion": 4.0,
+          "ventajas": [
+            "Buen rendimiento hidráulico",
+            "Mantenimiento relativamente económico",
+            "Buena visibilidad de cabina"
+          ],
+          "desventajas": [
+            "Red de servicio menos extensa que Cat o Komatsu en Colombia",
+            "Menor liquidez en mercado de reventa"
+          ],
+          "disponibilidad_local": "Hitachi tiene distribuidores en Colombia pero red menor que Cat",
+          "fuentes": []
+        },
+        {
+          "marca": "Volvo CE",
+          "modelo": "EC220E",
+          "equivalencia": "Excavadora de 22 t, ligeramente superior en peso pero misma clase de aplicación",
+          "precio_estimado": null,
+          "calificacion": 4.0,
+          "ventajas": [
+            "Excelente ergonomía de cabina",
+            "Buen rendimiento de combustible",
+            "Tecnología de gestión de potencia avanzada"
+          ],
+          "desventajas": [
+            "Precio de adquisición suele ser superior",
+            "Red de servicio limitada en Colombia"
+          ],
+          "disponibilidad_local": "Volvo CE tiene presencia en Colombia a través de distribuidores",
+          "fuentes": []
+        }
+      ],
+      "costo_total_propiedad": [
+        "Tren de rodaje al 70%: reemplazo completo estimado entre USD 15.000-25.000 (sin dato en dossier, estimación general de mercado)",
+        "Consumo de combustible: motor C4.4 ACERT de 121 HP, consumo típico 12-15 L/h en operación media",
+        "Mantenimiento programado Cat: intervalos de 250/500/1000 h, costo anual estimado USD 3.000-5.000",
+        "Valor de reventa: Caterpillar mantiene buena liquidez en mercado de segunda mano, depreciación ~15-20% anual los primeros 3 años"
+      ],
+      "banderas_rojas": [
+        "Tren de rodaje al 70% de desgaste: costo inminente de reemplazo que no está descontado del precio",
+        "Dossier incompleto: falta de datos de precio de mercado impide validar la cotización",
+        "No se incluye información sobre garantía, inspección pre-entrega ni condiciones de pago"
+      ],
+      "preguntas_al_proveedor": [
+        "¿Cuál es el costo estimado de reemplazo del tren de rodaje y puede descontarse del precio dado que está al 70% de desgaste?",
+        "¿Qué garantía incluye la máquina? ¿Cubre motor, hidráulica y estructura?",
+        "¿Puede proporcionar fotos o video del tren de rodaje, cuchara, brazo y cucharon en su estado actual?",
+        "¿El precio incluye flete, despacho aduanero e impuestos en Colombia o es precio FOB EE. UU.?",
+        "¿Qué historial de mantenimiento tiene la máquina? ¿Puede proporcionar el libro de servicio?",
+        "¿Hay disponibilidad de inspección por parte de un tercero antes de la compra?"
+      ],
+      "recomendacion": "comparar_mas",
+      "fuentes": [
+        {
+          "titulo": "MachineryTrader - 229 listings Caterpillar 320GC",
+          "url": "https://www.machinerytrader.com",
+          "tipo": "marketplace"
+        }
+      ],
+      "confianza_analisis": "baja"
+    }
+  ],
+  "notas_investigacion": [
+    "Se analizaron los primeros 1 de 2 items."
+  ],
+  "dossieres": [
+    "===== 320 GC =====\n# DOSSIER DE COMPRA – EXCAVADORA CATERPILLAR 320 GC\n\n---\n\n## 1. IDENTIFICACIÓN\n\n| Campo | Valor |\n|---|---|\n| Marca / Modelo | Caterpillar 320 GC |\n| Tipo | Excavadora hidráulica sobre orugas |\n| Año fabricación | 2021 |\n| Horómetro | 3.050 h |\n| Motor | Cat C4.4 ACERT, 121 HP |\n| Peso operativo | 22.200 kg |\n| Capacidad cucharon | 1,19 m³ |\n| Estado | Usado, importado de EE. UU. |\n| Tren de rodaje | 70 % (≈ 23 % de vida útil restante) |\n| Precio cotizado | **USD 165.000,00** / unidad × 1 |\n| Comprador | Colombia (moneda de referencia: COP) |\n| Marcas a comparar | Komatsu, Hitachi, Volvo CE, JCB |\n\n---\n\n## 2. PRECIOS DE MERCADO\n\n### Referencias encontradas\n\n| Fuente | URL | Dato | Tipo |\n|---|---|---|---|\n| MachineryTrader (229 listings 320GC) | https://www.machinerytrader.com"
+  ],
+  "costo_usd": 0.0,
+  "tokens_entrada": 21230,
+  "tokens_salida": 11937
+}

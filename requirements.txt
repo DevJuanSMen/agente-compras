@@ -1,0 +1,24 @@
+# --- Servidor ---
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+sqlalchemy>=2.0
+pydantic>=2.7
+python-dotenv>=1.0
+
+# --- Motor de estudio de mercado ---
+httpx>=0.27
+truststore>=0.9         # certificados de Windows (tiendas con cadena SSL incompleta)
+ddgs>=9.0               # buscador sin API key
+playwright>=1.47        # navegador real; luego: python -m playwright install chromium
+pymupdf>=1.24
+
+# --- IA (al menos un proveedor) ---
+google-genai>=1.0       # Gemini (recomendado, free tier)
+# Groq y NVIDIA se hablan por HTTP; anthropic es opcional:
+# anthropic>=1.0
+
+# --- Documentos ---
+reportlab>=4.0
+openpyxl>=3.1
+pillow>=10.0
